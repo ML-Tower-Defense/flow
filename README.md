@@ -4,13 +4,13 @@ This repo contains an example guide on what our workflow (based on [GitHub flow]
 
 ## Steps
 
-1. In GitHub Desktop, click the `Current branch` button to open the branch menu. The `main` branch is our default master branch. Click the `New branch` button to create a new branch. The branch name can be based off of the task that you're working on. For example if you're working on implementing a basic map, the branch can be named `implement-basic-map`. The new branch allows you to make whatever changes for your task without affecting the `main` branch.
+1. In GitHub Desktop, click the `Current branch` button to open the branch menu. The `main` branch is our default master branch. Click the `New branch` button to create a new branch. The branch name can be based off of the task that you're working on. For example if you're working on implementing a basic map, the branch can be named `implement-basic-map`. The new branch allows you to make whatever changes for your task without affecting the `main` branch. Click the `Create branch` button.
 
 ![Image 01][image01]
 
 ![Image 02][image02]
 
-2. Whenever you make changes, the file differences will appear under the `Changes` tab. You can choose which files to commit by checking or unchecking the box next to each file. In the bottom left corner, describe your commit changes by typing into the message box. Click the `Commit to ...` to make the commit. You can publish the branch to push it to the repo.
+2. Whenever you make changes, the file differences will appear under the `Changes` tab. You can choose which files to commit by checking the box next to each file. If there are files that you don't want to include in the commit, you can uncheck the box for those files. In the bottom left corner, describe your commit changes by typing into the message box. Click the `Commit to ...` to make the commit. You can publish the branch to push it to the repo.
 
 ![Image 03][image03]
 
@@ -26,7 +26,7 @@ This repo contains an example guide on what our workflow (based on [GitHub flow]
 
 ![Image 07][image07]
 
-5. After the pull request has been merged, you can delete the branch.
+5. After the pull request has been merged, you can delete the branch to indicate that the work on that branch is done.
 
 6. Whenever changes are made to the `main` branch and you want to update it, make sure the `main` branch is selected as the `Current branch` and click the `Pull origin` button to sync it with the latest changes.
 
