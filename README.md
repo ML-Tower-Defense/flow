@@ -26,11 +26,13 @@ This repo contains an example guide on what our workflow (based on [GitHub flow]
 
 ![Image 07][image07]
 
-5. After the pull request has been merged, you can delete the branch to indicate that the work on that branch is done.
+5. After the pull request has been merged, you can click the `Delete branch` button to indicate that the work on that branch is done.
+
+![Image 09][image09]
 
 6. Whenever changes are made to the `main` branch and you want to update it, make sure the `main` branch is selected as the `Current branch` and click the `Pull origin` button to sync it with the latest changes.
 
-![Image08][image08]
+![Image 08][image08]
 
 [image01]: docs/images/image01.png
 [image02]: docs/images/image02.png
@@ -40,3 +42,4 @@ This repo contains an example guide on what our workflow (based on [GitHub flow]
 [image06]: docs/images/image06.png
 [image07]: docs/images/image07.png
 [image08]: docs/images/image08.png
+[image09]: docs/images/image09.png
